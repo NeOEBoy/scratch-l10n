@@ -35,7 +35,7 @@
     "general.guidelines": "Правілы суполкі",
     "general.jobs": "Вакансіі",
     "general.joinScratch": "Далучыцца да Scratch",
-    "general.legal": "Легальны",
+    "general.legal": "Прававыя пытанні",
     "general.loadMore": "Загрузіць больш",
     "general.learnMore": "Даведацца больш",
     "general.male": "мужчынскі",
@@ -241,5 +241,10 @@
     "comments.status.suspended": "Прыпынены",
     "comments.status.acctdel": "Профіль выдалены",
     "comments.status.deleted": "Выдалены",
-    "comments.status.reported": "Паведамлены"
+    "comments.status.reported": "Паведамлены",
+    "social.embedLabel": "Embed",
+    "social.copyEmbedLinkText": "Copy embed",
+    "social.linkLabel": "Link",
+    "social.copyLinkLinkText": "Copy link",
+    "social.embedCopiedResultText": "Copied"
 }
