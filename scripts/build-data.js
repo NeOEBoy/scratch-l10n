@@ -66,7 +66,8 @@ const combineJson = (component) => {
 let blocksMessages = combineJson('blocks');
 let blockData =
     '// GENERATED FILE:\n' +
-    'export default ' +
+    // 'export default ' +
+    'module.exports =' +
     JSON.stringify(blocksMessages, null, 2) +
     ';\n';
 
